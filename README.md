@@ -95,15 +95,18 @@ $ pipenv run python main.py
 
 We use GitHub Discussions to talk about all sorts of topics related to documentation and this site. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing, join us in the [discussions](https://github.com/seraph776/PasswordJinn/discussions).
 
-##  License  ⚖️
-
-This project is licensed under the [MIT LICENSE](https://github.com/seraph776/PasswordJinn/blob/main/LICENSE). 
 
 ##  Acknowledgements 📢
 
 - [Shields IO](https://shields.io/)
 - [Choose a License](https://choosealicense.com/licenses/mit/)
 - [GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
+
+##  License  ⚖️
+
+[MIT LICENSE](https://github.com/seraph776/PasswordJinn/blob/main/LICENSE) © [seraph](https://github.com/seraph776) 
 
 <div align="right">
 
